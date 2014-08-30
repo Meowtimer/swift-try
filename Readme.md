@@ -1,4 +1,4 @@
-```
+```Swift
 var in_stupid_situation = false
 func compute() -> Int {
 	let v = try { () -> Int in
